@@ -1,0 +1,36 @@
+# Virtual environment
+venv/
+myvenv/ # Add your specific venv name here if different (you use myvenv)
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python/
+
+# C extensions
+*.so
+*.dll
+*.dylib
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data (if you don't want to upload large data files to Git)
+# As discussed, DO NOT uncomment data/*.csv for this project as the CSV is needed.
+# data/*.csv
