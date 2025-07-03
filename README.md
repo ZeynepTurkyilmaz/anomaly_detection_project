@@ -78,9 +78,6 @@ The `simulated_sensor_data.csv` file contains the following columns:
 
 ## Results and Discussion
 
-*(This section will be filled after you run the notebooks and analyze the results. You will describe the performance of each model, compare them, and discuss the implications of your findings.)*
-
-For example:
 * **Isolation Forest:** Briefly discuss its performance based on metrics (e.g., "Isolation Forest showed a good balance of precision and recall for anomaly detection, achieving an ROC AUC of X.XX. It was particularly effective in identifying clear outliers as shown in the scatter plots.")
 * **One-Class SVM:** Discuss its performance (e.g., "One-Class SVM also performed reasonably well, with an ROC AUC of Y.YY. It might be more sensitive to the choice of kernel and `nu` parameter, requiring careful tuning.")
 * **Comparison:** Compare the strengths and weaknesses of both models for this specific dataset.
