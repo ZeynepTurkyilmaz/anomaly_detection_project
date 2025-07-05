@@ -9,10 +9,10 @@ anomaly_detection_project/
 ├── notebooks/
 │   ├── 01_data_simulation_and_eda.ipynb
 │   └── 02_anomaly_detection_models.ipynb
-├── src/ 
-|   └──create_data.py
-├── tests/             # New: Unit and integration tests for the project.
-├── .github/           # New: GitHub Actions workflows for CI/CD.
+├── src/
+│   └── create_data.py  
+├── tests/
+├── .github/
 │   └── workflows/
 │       └── ci.yml
 ├── README.md
