@@ -3,6 +3,7 @@
 This project aims to develop a machine learning system to detect abnormal situations (anomalies) in simulated temperature and pressure sensor data.
 
 ## Project Structure
+'''bash
 anomaly_detection_project/
 ├── data/
 │   └── simulated_sensor_data.csv
@@ -16,6 +17,7 @@ anomaly_detection_project/
 │       └── ci.yml
 ├── README.md
 └── requirements.txt
+'''
 
 ## Project Goals
 
