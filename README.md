@@ -3,20 +3,20 @@
 This project aims to develop a machine learning system to detect abnormal situations (anomalies) in simulated temperature and pressure sensor data.
 
 ## Project Structure
-anomaly_detection_project/
-├── data/
-│   └── simulated_sensor_data.csv
-├── notebooks/
-│   ├── 01_data_simulation_and_eda.ipynb
-│   └── 02_anomaly_detection_models.ipynb
-├── src/
-│   └── create_data.py  
-├── tests/
-├── .github/
-│   └── workflows/
-│       └── ci.yml
-├── README.md
-└── requirements.txt
+anomaly_detection_project/                                                                                                                                                                                           
+├── data/                                                                                                                                                                                                            
+│   └── simulated_sensor_data.csv                                                                                                                                                                                    
+├── notebooks/                                                                                                                                                                                                       
+│   ├── 01_data_simulation_and_eda.ipynb                                                                                                                                                                             
+│   └── 02_anomaly_detection_models.ipynb                                                                                                                                                                            
+├── src/                                                                                                                                                                                                             
+│   └── create_data.py                                                                                                                                                                                               
+├── tests/                                                                                                                                                                                                           
+├── .github/                                                                                                                                                                                                         
+│   └── workflows/                                                                                                                                                                                                   
+│       └── ci.yml                                                                                                                                                                                                   
+├── README.md                                                                                                                                                                                                        
+└── requirements.txt                                                                                                                                                                                                 
 
 
 ## Project Goals
